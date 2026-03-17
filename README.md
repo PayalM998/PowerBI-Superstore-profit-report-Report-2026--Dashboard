@@ -110,7 +110,7 @@ Trend Analysis: Understand peak sales periods for better planning
 
 👉 (Upload screenshots of your Power BI dashboard here in GitHub)
 
-Example:
+Example: https://github.com/PayalM998/PowerBI-Superstore-profit-report-Report-2026--Dashboard/blob/main/Screenshot%20SUPERSTORE%20PROFIT%20REPORT26.png
 
 Dashboard Overview
 
