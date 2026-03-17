@@ -62,6 +62,15 @@ Total Orders
 
 Profit Margin
 
+🔥 Bonus: Add These DAX Measures in Your Project
+Total Sales = SUM(Orders[Sales])
+
+Total Profit = SUM(Orders[Profit])
+
+Total Orders = COUNT(Orders[Order ID])
+
+Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
+
 🌍 Sales by Region (Bar Chart)
 
 Compares performance across regions (East, West, Central, South)
@@ -116,12 +125,3 @@ Dashboard Overview
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/288990fc-9177-42d9-85ba-35ebdbc0943f" />
 
 
-
-🔥 Bonus: Add These DAX Measures in Your Project
-Total Sales = SUM(Orders[Sales])
-
-Total Profit = SUM(Orders[Profit])
-
-Total Orders = COUNT(Orders[Order ID])
-
-Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
